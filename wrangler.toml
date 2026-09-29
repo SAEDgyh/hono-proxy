@@ -15,7 +15,7 @@ new_classes = ["RateLimiter", "QuotaLimiter"]
 
 [[kv_namespaces]]
 binding = "DATA"
-id = "da6729bfbc4245f1be22b17660b89c3d"
+id = "f0a6447a8c364c6b8291feefbeed8877"
 
 [[ d1_databases ]]
 binding = "DB"
