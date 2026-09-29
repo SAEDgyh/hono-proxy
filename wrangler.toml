@@ -19,8 +19,8 @@ id = "f0a6447a8c364c6b8291feefbeed8877"
 
 [[ d1_databases ]]
 binding = "DB"
-database_name = "DB"
-database_id = "86b6465d-05ba-4235-89d3-ce8230a613ad"
+database_name = "hono-db"
+database_id = "705e4a7d-0c98-479e-bfef-1ac3f2200f85"
 
 # Init the production env
 # npx wrangler kv:namespace create DATA 
